@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to Page shipping",
+        "step 2: At Page shipping click on hyperlink --> navigate to Page home",
+        "step 3: At Page home click on hyperlink product apple iphone pro --> navigate to Page product apple-iphone-15-pro",
+        "step 4: At Page product apple-iphone-15-pro click on label object",
+        "step 5: At Page product apple-iphone-15-pro click on label object",
+        "step 6: At Page product apple-iphone-15-pro click on button object --> navigate to Page product apple-iphone-15-plus",
+        "step 7: Add visual checkpoint at Page product apple-iphone-15-plus"
+    ]
+}
